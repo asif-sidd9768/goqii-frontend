@@ -1,4 +1,4 @@
-# Vite Frontend User Management App
+# Frontend User Management App
 
 This is a simple user management application built with Vite.js. It allows users to view a table of users, edit existing users, add new users, and delete users.
 
