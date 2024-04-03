@@ -42,7 +42,7 @@ Before running the application, ensure you have the following installed:
 
 
 ## Usage
-    Upon opening the application, you will be presented with a table displaying existing users.
-    To edit a user, click on the "Edit" button corresponding to that user's row. A popup form will appear where you can make changes and save them.
-    To add a new user, click on the "Add User" button at the top of the page. Fill in the required information in the popup form and click "Save".
-    To delete a user, click on the "Delete" button corresponding to that user's row in the table. Confirm the deletion in the prompt.
+   - Upon opening the application, you will be presented with a table displaying existing users.
+   - To edit a user, click on the "Edit" button corresponding to that user's row. A popup form will appear where you can make changes and save them.
+   - To add a new user, click on the "Add User" button at the top of the page. Fill in the required information in the popup form and click "Save".
+   - To delete a user, click on the "Delete" button corresponding to that user's row in the table. Confirm the deletion in the prompt.
